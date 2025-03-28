@@ -53,18 +53,20 @@ Mi objetivo es seguir mejorando mis habilidades y aprender nuevas tecnologías p
 Aquí puedes encontrar algunos de mis proyectos personales donde aplico todo lo que he aprendido.
 
 <p align="center">
-  <a href="">
+  <a href="https://apexpert.netlify.app/">
     <img height="180em" src="APExpert.png">
   
 
-  <a href="">
+  <a href="https://consultorioodontologicofl.netlify.app/">
     <img height="180em" src="Consultorio Odontologico F&L.png"/>
   </a>
 </p>
 
+<a href="https://cipohex3d.netlify.app/">
 <p align="center">
-  <img height="180em" src=""/>
+  <img height="180em" src="CipoHex3D.png"/>
 </p>
+</a>
   
 ### 🤝🏻 &nbsp;¡Conectemos!
 
