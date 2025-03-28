@@ -54,7 +54,7 @@ Aquí puedes encontrar algunos de mis proyectos personales donde aplico todo lo 
 
 <p align="center">
   <a href="">
-    <img height="180em" src="https://github.com/user-attachments/assets/bc6af765-9cc1-46ed-b1d9-12ceba9fbbac/>
+    <img height="180em" src="APExpert.png">
   
 
   <a href="">
