@@ -1,16 +1,90 @@
-## Hi there 👋
+![Gisel Fernandez Banner]()
 
-<!--
-**GiselFdz/GiselFdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! 👋 Soy Gisel Fernandez</h2>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## 👋 &nbsp;Hey there! I'm Gisel Fernandez -->
+
+Sobre mi
+
+Soy una desarrolladora autodidacta que está comenzando su camino en la programación. Actualmente, estoy aprendiendo a construir sitios web usando tecnologías como HTML, CSS y Bootstrap. También estoy dando mis primeros pasos con JavaScript para darle más interactividad a mis proyectos.
+
+🚀 ¿Qué estoy aprendiendo?
+
+HTML: Creación de páginas web estructuradas.
+
+CSS: Diseño y estilo de páginas web.
+
+Bootstrap: Framework para facilitar el diseño responsive.
+
+JavaScript: Añadir dinamismo y funcionalidades a mis sitios.
+
+📚 Mi enfoque de aprendizaje:
+
+Soy autodidacta y aprendo a través de tutoriales en línea, documentación y trabajando en proyectos reales.
+
+Mi objetivo es seguir mejorando mis habilidades y aprender nuevas tecnologías para crear experiencias web más complejas.
+
+
+
+
+### 🛠 &nbsp;Tecnologias conocidas
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
+
+
+
+### 🧰 &nbsp;Control de versiones y herramientas
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
+
+<div> 
+### 💻 Proyectos:
+Aquí puedes encontrar algunos de mis proyectos personales donde aplico todo lo que he aprendido.
+
+<p align="center">
+  <a href="">
+    <img height="180em" src="https://github.com/user-attachments/assets/bc6af765-9cc1-46ed-b1d9-12ceba9fbbac/>
+  
+
+  <a href="">
+    <img height="180em" src=""/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src=""/>
+</p>
+  
+### 🤝🏻 &nbsp;¡Conectemos!
+
+
+
+<p align="center">
+ 
+<a href="https://linkedin.com/in/gisel-fern%C3%A1ndez/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+
+<a href = "mailto:giselfdz88@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+
+   
+  
+  
+
+
+
+
+
+
+
+
