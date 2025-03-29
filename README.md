@@ -1,4 +1,4 @@
-![Gisel Fernandez Banner]()
+<img alt="" src="" width='50' align="left"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! 👋 Soy Gisel Fernandez</h2>
 
