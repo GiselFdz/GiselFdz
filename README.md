@@ -1,9 +1,6 @@
 <p align="center">
-  <a href=""><img src="<p align="center">
-  <a href=""><img src="></a>
-</p>
-font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+ 
+  <a href=""><img src="Portada G.gif"></a>
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! 👋 Soy Gisel Fernandez</h2>
