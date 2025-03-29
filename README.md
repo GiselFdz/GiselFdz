@@ -48,9 +48,11 @@ Mi objetivo es seguir mejorando mis habilidades y aprender nuevas tecnologías p
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
-<div> 
+
 ### 💻 Proyectos:
-Aquí puedes encontrar algunos de mis proyectos personales donde aplico todo lo que he aprendido.
+
+Aquí puedes encontrar algunos de mis proyectos personales donde aplico todo lo que he aprendido.<br>
+
 
 <p align="center">
   <a href="https://apexpert.netlify.app/">
