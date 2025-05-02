@@ -67,12 +67,16 @@ Aquí puedes encontrar algunos de mis proyectos personales donde aplico todo lo 
   </a>
 </p>
 
-<a href="https://cipohex3d.netlify.app/">
 <p align="center">
+<a href="https://cipohex3d.netlify.app/">
   <img height="180em" src="CipoHex3D.png"/>
-</p>
 </a>
-  
+
+<a href="https://riderly-motos.netlify.app/">
+ <img height="180em" src="Riderly-Motos.png"/>
+</a>
+</p>
+
 ### 🤝🏻 &nbsp;¡Conectemos!
 
 
