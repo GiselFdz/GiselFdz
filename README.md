@@ -11,7 +11,9 @@
 
 Sobre mi
 
-Soy una desarrolladora autodidacta que está comenzando su camino en la programación. Actualmente, estoy aprendiendo a construir sitios web usando tecnologías como HTML, CSS y Bootstrap. También estoy dando mis primeros pasos con JavaScript para darle más interactividad a mis proyectos.
+Soy una desarrolladora autodidacta que está dando sus primeros pasos en el mundo de la programación. Actualmente me enfoco en la construcción de sitios web usando tecnologías como HTML, CSS, Bootstrap y JavaScript para crear interfaces atractivas e interactivas.
+
+Recientemente he comenzado a explorar el mundo del análisis de datos, aprendiendo herramientas como SQL, Power BI y Excel, con el objetivo de ampliar mis posibilidades profesionales y combinar desarrollo web con análisis de información.
 
 🚀 ¿Qué estoy aprendiendo?
 
