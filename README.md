@@ -17,13 +17,19 @@ Recientemente he comenzado a explorar el mundo del análisis de datos, aprendien
 
 🚀 ¿Qué estoy aprendiendo?
 
-HTML: Creación de páginas web estructuradas.
+HTML: Estructura básica de páginas web.
 
-CSS: Diseño y estilo de páginas web.
+CSS: Estilos y diseño visual.
 
-Bootstrap: Framework para facilitar el diseño responsive.
+Bootstrap: Framework para diseño responsive y componentes reutilizables.
 
-JavaScript: Añadir dinamismo y funcionalidades a mis sitios.
+JavaScript: Dinamismo e interactividad en sitios web.
+
+SQL: Consultas y manejo de bases de datos relacionales.
+
+Power BI: Visualización y análisis de datos.
+
+Excel: Análisis, organización y automatización de datos con funciones y tablas dinámicas.
 
 📚 Mi enfoque de aprendizaje:
 
