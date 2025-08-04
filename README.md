@@ -105,6 +105,36 @@ Aquí puedes encontrar algunos de mis proyectos personales donde aplico todo lo 
   </tr>
 </table>
 
+### 📊 Proyectos de Análisis de Datos
+
+También estoy dando mis primeros pasos en análisis de datos, usando **Power BI** para crear dashboards e interpretar información de manera visual y efectiva.
+
+### 📚 [Tecnología y Educación en América Latina (PISA 2015–2022)](./analisis-datos/tecnologia-educacion/README.md)
+Análisis del acceso a internet y su relación con el rendimiento académico en Argentina, México, Chile y Colombia.
+
+<img src="" alt="" width="400x250">
+
+🧠 **Insights destacados:**
+- El acceso a tecnología aumentó, pero no siempre mejora el rendimiento.
+- Persisten brechas de género en los puntajes de PISA.
+
+---
+
+### 💼 [Análisis del Mercado IT en Argentina – 2024](./analisis-datos/mercado-it-argentina/README.md)
+Dashboard basado en la Encuesta Sysarmy, analizando sueldos, tecnologías más usadas y puestos más frecuentes.
+
+<img src="" alt="" width="400x250">
+
+
+🧠 **Insights destacados:**
+- El trabajo remoto lidera con el 60% de participación.
+- SQL y Python son las tecnologías más utilizadas.
+- Developer es el puesto más frecuente por amplio margen.
+
+> ⚙️ Herramientas: Power BI • DAX
+
+---
+
 ### 🤝🏻 &nbsp;¡Conectemos!
 
 
