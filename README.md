@@ -85,7 +85,7 @@ Aquí puedes encontrar algunos de mis proyectos personales donde aplico todo lo 
  
 <a href="https://linkedin.com/in/gisel-fernandez88/" target="blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
 
-<a href = "mailto:giselfdz88@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<a href = "mailto:giselfdz88@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""  /></a>
   </p>
 
    
