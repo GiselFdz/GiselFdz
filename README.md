@@ -112,7 +112,7 @@ También estoy dando mis primeros pasos en análisis de datos, usando **Power BI
 ### 📚 [Tecnología y Educación en América Latina (PISA 2015–2022)](./analisis-datos/tecnologia-educacion/README.md)
 Análisis del acceso a internet y su relación con el rendimiento académico en Argentina, México, Chile y Colombia.
 
-<img src="" alt="" width="400x250">
+<img src="Dash1.jpeg" alt="" width="400x250">
 
 🧠 **Insights destacados:**
 - El acceso a tecnología aumentó, pero no siempre mejora el rendimiento.
