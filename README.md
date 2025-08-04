@@ -123,7 +123,7 @@ Análisis del acceso a internet y su relación con el rendimiento académico en 
 ### 💼 [Análisis del Mercado IT en Argentina – 2024](./analisis-datos/mercado-it-argentina/README.md)
 Dashboard basado en la Encuesta Sysarmy, analizando sueldos, tecnologías más usadas y puestos más frecuentes.
 
-<img src="" alt="" width="400x250">
+<img src="Dash2.jpeg" alt="" width="400x250">
 
 
 🧠 **Insights destacados:**
