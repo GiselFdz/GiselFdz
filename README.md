@@ -33,9 +33,15 @@ Excel: Análisis, organización y automatización de datos con funciones y tabla
 
 📚 Mi enfoque de aprendizaje:
 
-Soy autodidacta y aprendo a través de tutoriales en línea, documentación y trabajando en proyectos reales.
+Soy autodidacta. Aprendo a través de:
 
-Mi objetivo es seguir mejorando mis habilidades y aprender nuevas tecnologías para crear experiencias web más complejas.
+Tutoriales en línea
+
+Documentación oficial
+
+Proyectos personales reales
+
+Mi objetivo es seguir creciendo tanto en desarrollo web como en análisis de datos, integrando ambas disciplinas para construir soluciones completas y funcionales.
 
 
 
