@@ -76,30 +76,42 @@ Mi objetivo es seguir creciendo tanto en desarrollo web como en análisis de dat
 
 ### 💻 Proyectos:
 
-Aquí puedes encontrar algunos de mis proyectos personales donde aplico todo lo que he aprendido.<br>
+Aquí puedes encontrar algunos de mis proyectos personales donde aplico todo lo que he aprendido en desarrollo web.
 
-
-<p align="center">
-  <a href="https://apexpert.netlify.app/">
-    <img height="180em" src="APExpert.png">
-  
-
-  <a href="https://consultorioodontologicofl.netlify.app/">
-    <img height="180em" src="Consultorio Odontologico F&L.png"/>
-  </a>
-</p>
-
-<p align="center">
-<a href="https://cipohex3d.netlify.app/">
-  <img height="180em" src="CipoHex3D.png"/>
-</a>
-
-<a href="https://riderly-motos.netlify.app/">
- <img height="180em" src="Riderly-Motos.png"/>
-</a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://apexpert.netlify.app/" target="_blank">
+        <img src="APExpert.png" alt="Proyecto Aire Acondicionado" width="400x250" >
+      </a>
+    </td>
+    <td>
+      <a href="https://consultorioodontologicofl.netlify.app/" target="_blank">
+        <img src="Consultorio Odontologico F&L.png" alt="Proyecto Consultorio F&L" width="400x250">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://cipohex3d.netlify.app/" target="_blank">
+        <img src="CipoHex3D.png" alt="Proyecto Cipohex3D" width="400x250">
+      </a>
+    </td>
+    <td>
+      <a href="https://riderly-motos.netlify.app/" target="_blank">
+        <img src="Riderly-Motos.png" alt="Proyecto Ridery" width="400x250">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🤝🏻 &nbsp;¡Conectemos!
+
+
+
+
+
+
 
 
 
